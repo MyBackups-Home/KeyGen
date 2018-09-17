@@ -1,3 +1,0 @@
-将crack文件夹里的所有文件拷贝到MathType安装目录下进行替换，即可汉化、破解。
-MathType默认安装目录：C:\Program Files (x86)\MathType
-如果安装时报错Office插件不能用，请在C:\Program Files\Microsoft Office\Office16\下创建Startup文件夹，等安装完毕后将crack文件夹里的对应Office位数的MathType Commands 2016.dotm复制到Startup文件夹里即可。
